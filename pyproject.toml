@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "amneziawg-bot"
+version = "0.1.0"
+description = ""
+authors = FlyTie
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiogram = "^3.15.0"
+pydantic-settings = "^2.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
