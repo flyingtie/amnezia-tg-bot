@@ -1,1 +1,1 @@
-# Telegram Bot for AmneziaWG
+# Telegram bot manager for AmneziaWG
