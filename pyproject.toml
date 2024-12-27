@@ -2,7 +2,7 @@
 name = "amneziawg-bot"
 version = "0.1.0"
 description = ""
-authors = "FlyTie"
+authors = [ "FlyTie" ]
 readme = "README.md"
 
 [tool.poetry.dependencies]
